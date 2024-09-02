@@ -1,0 +1,6 @@
+@webapi_HostAddress = http://localhost:2020
+
+GET {{https://v6.exchangerate-api.com/v6/feb628771760a04e158f0340/latest/USD}}/weatherforecast/
+Accept: application/json
+
+###
